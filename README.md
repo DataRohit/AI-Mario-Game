@@ -15,3 +15,5 @@ $ pip install -r requirements.txt
 ### **3. Run the Python Notebooks**
  - Run the code cells one by one to get the output
  - NOTE: The model training can take hours
+
+**Credits [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)**
